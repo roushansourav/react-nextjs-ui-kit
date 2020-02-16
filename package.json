@@ -7,7 +7,7 @@
   "dev": "next",
   "build": "next build",
   "start": "next start"
-}
+},
   "author": "venomWolf",
   "license": "MIT",
   "dependencies": {
